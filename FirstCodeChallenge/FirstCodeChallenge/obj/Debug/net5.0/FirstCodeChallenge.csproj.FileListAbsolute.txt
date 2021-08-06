@@ -1,0 +1,16 @@
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\bin\Debug\net5.0\FirstCodeChallenge.exe
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\bin\Debug\net5.0\FirstCodeChallenge.deps.json
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\bin\Debug\net5.0\FirstCodeChallenge.runtimeconfig.json
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\bin\Debug\net5.0\FirstCodeChallenge.runtimeconfig.dev.json
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\bin\Debug\net5.0\FirstCodeChallenge.dll
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\bin\Debug\net5.0\ref\FirstCodeChallenge.dll
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\bin\Debug\net5.0\FirstCodeChallenge.pdb
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\FirstCodeChallenge.csprojAssemblyReference.cache
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\FirstCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\FirstCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\FirstCodeChallenge.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\FirstCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\FirstCodeChallenge.dll
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\ref\FirstCodeChallenge.dll
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\FirstCodeChallenge.pdb
+C:\Users\Abdullah\source\repos\FirstCodeChallenge\FirstCodeChallenge\obj\Debug\net5.0\FirstCodeChallenge.genruntimeconfig.cache
